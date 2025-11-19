@@ -86,8 +86,8 @@ The application follows **Domain-Driven Design (DDD)** principles with clear sep
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd crm-app
+git clone https://github.com/developer-evan/CRMSystem.git
+cd CRMSystem
 ```
 
 ### 2. Restore Dependencies
