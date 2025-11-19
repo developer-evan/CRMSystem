@@ -2,6 +2,20 @@
 
 A modern, full-featured CRM application built with .NET Blazor Server and Entity Framework Core, following Domain-Driven Design (DDD) principles.
 
+## 📸 Screenshots
+
+### Customer List View
+![Customer List](images/Screenshot%202025-11-19%20112855.png)
+
+### Add Customer Modal
+![Add Customer Modal](images/Screenshot%202025-11-19%20112904.png)
+
+### Edit Customer Modal
+![Edit Customer Modal](images/Screenshot%202025-11-19%20113523.png)
+
+### Delete Confirmation Modal
+![Delete Confirmation](images/Screenshot%202025-11-19%20112917.png)
+
 ## 🚀 Features
 
 - **Complete CRUD Operations**
